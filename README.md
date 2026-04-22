@@ -11,7 +11,7 @@
 * Issue tracking: <https://github.com/opencv/opencv/issues>
 * Additional OpenCV functionality: <https://github.com/opencv/opencv_contrib>
 * Donate to OpenCV: <https://opencv.org/support/>
-
+Added document paths.
 
 ### Contributing
 
